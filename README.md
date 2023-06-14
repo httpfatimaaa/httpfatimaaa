@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @httpfatimaaa
-- 👀 I’m interested in astronomy and coding
+- 👀 I’m a physics and astrophysics grad student
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on astrophysics research projects
 - 📫 How to reach me: fatimaa.omar20@gmail.com
