@@ -1,5 +1,8 @@
 
-MSc student in astronomy & astrophysics, University of Manchester.
+- 👋 Hi, I’m @httpfatimaaa
+- 👀 I’m interested in astronomy and coding
+- 💞️ MSc student in astronomy & astrophysics
+- 📫 How to reach me: fatimaa.omar20@gmail.com
   
 
 <!---
